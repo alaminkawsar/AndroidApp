@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KotlipApp</string>
+    <string name="app_name">LocationDetect</string>
     <string name="latitudeBabel">Latitude</string>
     <string name="longitudeBabel">Longitude</string>
 </resources>
