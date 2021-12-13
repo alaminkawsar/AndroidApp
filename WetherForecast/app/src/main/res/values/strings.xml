@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">WetherForecast</string>
+    <string name="app_name">KotlipApp</string>
+    <string name="latitudeBabel">Latitude</string>
+    <string name="longitudeBabel">Longitude</string>
 </resources>
